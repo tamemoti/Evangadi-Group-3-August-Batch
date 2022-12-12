@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.outer {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: bisque;
+    background-color: chocolate;
+}
+
+.inside li {
+    list-style: none;
+    font-size: xx-large;
+}
